@@ -11,6 +11,6 @@ go mod download
 go run example.go
 ```
 
-## Licenses
+## License
 
-The codes in this repository is under the MIT Licenses.
+The codes in this repository is under the MIT License.
